@@ -64,3 +64,12 @@ npm run startu:dev
     npm install class-transformer | npm i class-transformer==> To transforma the request Data into a valid object: need to fit int eDTO shapes.
 #   @nestjs/mapped-types
     Hsve a class, PartialType, who recive as an argument a DTO and return it with all the fileds marcked as optional and with the same rules applied to the original DTO.
+
+## Docker
+#   Compose
+    .yml file ==> The file where the docker configuration will be added.
+
+## TypeORM
+    npm i @nestjs/typeorm ==> The NestJS typeORM package.
+    npm i typeorm ==> The TypeORM package for NestJS.
+    npm i pg ==> The postgresSQL package for NestJS.

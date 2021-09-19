@@ -36,4 +36,10 @@ lerna-debug.log*
 
 # Documentation
 CourseNotes
-.docx
+*.docx
+
+# ENV
+*.env
+
+# Docker
+docker-compose
